@@ -9,6 +9,7 @@ focusing on theory, architecture, and key algorithmic intuition.
 - [ ] **Forecasting**
 - [ ] **Classification**
 - [ ] **Clustering**
+- [ ] **Anomaly Detection**
 - [ ] **Dimensionality Reduction**
 - [ ] **Model Evaluation & Metrics**
 
