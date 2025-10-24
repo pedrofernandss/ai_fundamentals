@@ -43,8 +43,3 @@ Each notebook or module includes:
 - Visual or quantitative analysis of results  
 
 This structure helps bridge **intuition ↔ implementation ↔ interpretation**.
-
----
-
-## 🧱 Project Structure
-
